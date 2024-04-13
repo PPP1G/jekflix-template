@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2019-05-16 23:48:05
 layout: post
 title: Welcome to the desert of the real
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
@@ -14,7 +14,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: mranderson
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
@@ -30,7 +30,7 @@ HTML defines a long list of available inline tags, a complete list of which can 
 * **To bold text**, use `<strong>`.
 * *To italicize text*, use `<em>`.
 * Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-* Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
+* Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
 * <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
 * Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
 
